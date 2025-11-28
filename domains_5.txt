@@ -1,0 +1,6 @@
+dsrb2bsla01.intern.upc.ch
+eai.sunrise.net
+eservertb.sunrise.net
+pub_NONPROD-auth.com-api-gtw.sunrise.net
+pub_PROD-auth.com-api-gtw.sunrise.net
+q-tessi.sunrise.net
